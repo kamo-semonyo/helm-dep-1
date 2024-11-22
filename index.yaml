@@ -1,12 +1,14 @@
-apiVersion: v2
+apiVersion: v1
 entries:
   notification-config:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-22T09:09:32.243479+02:00"
+    created: "2024-11-22T09:34:52.323921+02:00"
     description: A Helm chart for Kubernetes
-    digest: 7a4a421533f58a5893d81c238d9d8a7a5077471d3476d48785f8f0b50ea93b57
+    digest: 991c7a829f956f2588c28387c0f6c61e826504037aa8363805b66e49562a7d27
     name: notification-config
     type: application
+    urls:
+    - https://kamo-semonyo.github.io/helm-dep-1/notification-config-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-22T09:09:32.235385+02:00"
+generated: "2024-11-22T09:34:52.314581+02:00"
