@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  notification-config:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-22T08:47:57.702532+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 9f79ec4aabf845bdff7c8a3e6a35344e671902ae0ba0e571a91a93f10401da64
+    name: notification-config
+    type: application
+    urls:
+    - notification-config-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-22T08:47:57.695965+02:00"
