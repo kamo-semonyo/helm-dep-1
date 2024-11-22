@@ -8,7 +8,5 @@ entries:
     digest: 7a4a421533f58a5893d81c238d9d8a7a5077471d3476d48785f8f0b50ea93b57
     name: notification-config
     type: application
-    urls:
-    - https://kamo-semonyo.github.io/helm-dep-1/notification-config-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-22T09:09:32.235385+02:00"
